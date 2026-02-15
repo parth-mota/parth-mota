@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parth Mota</h1>
+<h1 align="center">Hi, I'm Parth Mota</h1>
 <h3 align="center">
 GenAI Engineer specializing in LLM-powered automation, agentic workflows, and scalable AI systems.
 </h3>
